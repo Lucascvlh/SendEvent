@@ -1,0 +1,6 @@
+chromedriver.exe
+pyinstaller.exe
+.env
+/build
+/dist
+main.spec
