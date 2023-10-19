@@ -5,7 +5,7 @@ Este script em Python utiliza a biblioteca Selenium para automatizar interaçõe
 Antes de executar o script, certifique-se de ter o seguinte configurado:
 
 - Python instalado no seu sistema.
-- Chrome WebDriver instalado e compatível com o seu navegador Chrome. Você pode baixá-lo aqui.
+- Chrome WebDriver instalado e compatível com o seu navegador Chrome. Você pode baixá-lo [aqui](https://googlechromelabs.github.io/chrome-for-testing/).
 - Bibliotecas Python necessárias instaladas (instale com pip):
 - Selenium
 - Pandas
